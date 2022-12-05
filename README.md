@@ -1,4 +1,5 @@
-# columnar-tables-extension
+Columnar-tables-extension
+
 This repository contains DEB and RPM packages for the citusDB-columnar extension for PostgreSQL version 15. Refer to my blog &lt;to be published soon> for more information.
 
-This package is provided as is and without warranty.
+EXCEPT AS REPRESENTED IN THIS AGREEMENT, ALL WORK PRODUCT BY DEVELOPER IS PROVIDED “AS IS”. OTHER THAN AS PROVIDED IN THIS AGREEMENT, DEVELOPER MAKES NO OTHER WARRANTIES, EXPRESS OR IMPLIED, AND HEREBY DISCLAIMS ALL IMPLIED WARRANTIES, INCLUDING ANY WARRANTY OF MERCHANTABILITY AND WARRANTY OF FITNESS FOR A PARTICULAR PURPOSE.
